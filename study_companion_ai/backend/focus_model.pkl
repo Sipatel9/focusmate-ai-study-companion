@@ -1,0 +1,3 @@
+import joblib
+
+joblib.dump(model, "focus_model.pkl")

@@ -1,0 +1,19 @@
+name: focusmate_mvp
+description: FocusMate MVP
+publish_to: 'none'
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  http: ^1.2.0
+  fl_chart: ^0.69.0
+  shared_preferences: ^2.2.2
+  uuid: ^4.4.0
+
+
+flutter:
+  uses-material-design: true

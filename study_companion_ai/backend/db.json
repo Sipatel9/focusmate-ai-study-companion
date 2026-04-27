@@ -1,0 +1,299 @@
+{
+  "sessions": [
+    {
+      "user_id": "124b6db8-3930-404a-b8e0-9335a6ea5161",
+      "session_id": "5cc6d0e6-2ed9-49c6-b558-b0411deaa8f9",
+      "start_time": "2026-02-27T00:32:11.782468+00:00",
+      "end_time": null,
+      "duration_seconds": null,
+      "idle_seconds": null,
+      "focus_pred": null,
+      "goal": "3",
+      "planned_minutes": 25,
+      "distraction_budget": 3,
+      "distraction_count": 0,
+      "goal_completed": null
+    },
+    {
+      "user_id": "124b6db8-3930-404a-b8e0-9335a6ea5161",
+      "session_id": "87f71da4-1275-44c8-8869-e6e1349362e3",
+      "start_time": "2026-02-27T00:33:17.363152+00:00",
+      "end_time": null,
+      "duration_seconds": null,
+      "idle_seconds": null,
+      "focus_pred": null,
+      "goal": "7",
+      "planned_minutes": 25,
+      "distraction_budget": 3,
+      "distraction_count": 0,
+      "goal_completed": null
+    },
+    {
+      "user_id": "patelsamira2407@gmail.com",
+      "session_id": "38a5c640-fc91-4f38-b91c-120bb33b6804",
+      "start_time": "2026-02-27T13:26:43.708753+00:00",
+      "end_time": null,
+      "duration_seconds": null,
+      "idle_seconds": null,
+      "focus_pred": null,
+      "goal": "3",
+      "planned_minutes": 25,
+      "distraction_budget": 3,
+      "distraction_count": 0,
+      "goal_completed": null
+    },
+    {
+      "user_id": "patelsamira2407@gmail.com",
+      "session_id": "1b9c9db0-0eeb-4672-8e59-0927d86b1d6f",
+      "start_time": "2026-02-27T13:35:26.084450+00:00",
+      "end_time": null,
+      "duration_seconds": null,
+      "idle_seconds": null,
+      "focus_pred": null,
+      "goal": "2",
+      "planned_minutes": 25,
+      "distraction_budget": 3,
+      "distraction_count": 0,
+      "goal_completed": null
+    },
+    {
+      "user_id": "patelsamira2407@gmail.com",
+      "session_id": "77e4e063-5600-4738-a564-0f02fc73cd36",
+      "start_time": "2026-02-27T13:59:52.295387+00:00",
+      "end_time": null,
+      "duration_seconds": null,
+      "idle_seconds": null,
+      "focus_pred": null,
+      "goal": "3",
+      "planned_minutes": 25,
+      "distraction_budget": 3,
+      "distraction_count": 0,
+      "goal_completed": null
+    },
+    {
+      "user_id": "patelsamira2407@gmail.com",
+      "session_id": "f3ab3de8-72f0-44cc-9e77-07e7ce18c00d",
+      "start_time": "2026-03-02T11:26:17.917882+00:00",
+      "end_time": "2026-03-02T11:27:20.139023+00:00",
+      "duration_seconds": 61,
+      "idle_seconds": 50,
+      "focus_pred": "high",
+      "goal": "3",
+      "planned_minutes": 25,
+      "distraction_budget": 3,
+      "distraction_count": 2,
+      "goal_completed": true
+    },
+    {
+      "user_id": "patelsamira2407@gmail.com",
+      "session_id": "7e649402-7f36-4e3c-89c6-e6a5ef67dff2",
+      "start_time": "2026-03-02T11:56:34.097236+00:00",
+      "end_time": "2026-03-02T11:57:42.770819+00:00",
+      "duration_seconds": 68,
+      "idle_seconds": 53,
+      "focus_pred": "high",
+      "goal": "2",
+      "planned_minutes": 25,
+      "distraction_budget": 3,
+      "distraction_count": 2,
+      "goal_completed": true
+    },
+    {
+      "user_id": "patelsamira2407@gmail.com",
+      "session_id": "625998e9-a805-49de-930d-271db669d8a9",
+      "start_time": "2026-03-02T12:16:08.203567+00:00",
+      "end_time": "2026-03-02T12:17:02.941731+00:00",
+      "duration_seconds": 50,
+      "idle_seconds": 32,
+      "focus_pred": "high",
+      "goal": "2",
+      "planned_minutes": 25,
+      "distraction_budget": 3,
+      "distraction_count": 2,
+      "goal_completed": false
+    },
+    {
+      "user_id": "patelsamira2407@gmail.com",
+      "session_id": "c1860b3f-cf3b-4173-83f3-8e7905ab5657",
+      "start_time": "2026-03-02T12:17:26.907082+00:00",
+      "end_time": "2026-03-02T12:18:19.498319+00:00",
+      "duration_seconds": 52,
+      "idle_seconds": 0,
+      "focus_pred": "high",
+      "goal": "6",
+      "planned_minutes": 25,
+      "distraction_budget": 3,
+      "distraction_count": 0,
+      "goal_completed": true
+    },
+    {
+      "user_id": "patelsamira2407@gmail.com",
+      "session_id": "0ba254ec-7f3b-4acd-9a6b-d4265ab6ab96",
+      "start_time": "2026-03-02T12:31:51.613460+00:00",
+      "end_time": "2026-03-02T12:32:10.523656+00:00",
+      "duration_seconds": 18,
+      "idle_seconds": 8,
+      "focus_pred": "high",
+      "goal": "5",
+      "planned_minutes": 25,
+      "distraction_budget": 3,
+      "distraction_count": 2,
+      "goal_completed": false
+    },
+    {
+      "user_id": "patelsamira2407@gmail.com",
+      "session_id": "c9e2397d-9615-48c1-9ebe-68e44f910365",
+      "start_time": "2026-03-02T12:32:19.113473+00:00",
+      "end_time": "2026-03-02T12:32:44.266712+00:00",
+      "duration_seconds": 24,
+      "idle_seconds": 0,
+      "focus_pred": "high",
+      "goal": "1",
+      "planned_minutes": 25,
+      "distraction_budget": 3,
+      "distraction_count": 0,
+      "goal_completed": true
+    },
+    {
+      "user_id": "patelsamira2407@gmail.com",
+      "session_id": "0762f478-25aa-4512-a41c-2f5a44d946d9",
+      "start_time": "2026-03-09T11:08:06.845171+00:00",
+      "end_time": "2026-03-09T11:08:39.784935+00:00",
+      "duration_seconds": 32,
+      "idle_seconds": 11,
+      "focus_pred": "high",
+      "goal": "2",
+      "planned_minutes": 25,
+      "distraction_budget": 3,
+      "distraction_count": 2,
+      "goal_completed": true
+    },
+    {
+      "user_id": "patelsamira2407@gmail.com",
+      "session_id": "47dbac88-2704-4bc9-a479-2f7e9da29463",
+      "start_time": "2026-03-09T11:11:21.231983+00:00",
+      "end_time": "2026-03-09T11:11:52.827470+00:00",
+      "duration_seconds": 30,
+      "idle_seconds": 4,
+      "focus_pred": "high",
+      "goal": "2",
+      "planned_minutes": 25,
+      "distraction_budget": 3,
+      "distraction_count": 1,
+      "goal_completed": false
+    },
+    {
+      "user_id": "patelsamira2407@gmail.com",
+      "session_id": "a41bf880-4f61-42c1-aea9-b7b9bdb551a3",
+      "start_time": "2026-03-12T23:05:59.491997+00:00",
+      "end_time": "2026-03-12T23:08:15.386520+00:00",
+      "duration_seconds": 135,
+      "idle_seconds": 63,
+      "focus_pred": "low",
+      "goal": "5",
+      "planned_minutes": 25,
+      "distraction_budget": 3,
+      "distraction_count": 7,
+      "goal_completed": false
+    },
+    {
+      "user_id": "patelsamira2407@gmail.com",
+      "session_id": "63af034f-1323-4d7e-965f-880d155b02ae",
+      "start_time": "2026-04-02T20:18:18.729074+00:00",
+      "end_time": "2026-04-02T20:20:19.057452+00:00",
+      "duration_seconds": 116,
+      "idle_seconds": 44,
+      "focus_pred": "high",
+      "goal": "5",
+      "planned_minutes": 25,
+      "distraction_budget": 3,
+      "distraction_count": 4,
+      "goal_completed": false
+    },
+    {
+      "user_id": "user123",
+      "session_id": "3c09b075-d726-4e48-816f-2bb1f273942e",
+      "start_time": "2026-04-07T12:00:19.372319+00:00",
+      "end_time": "2026-04-07T12:04:11.727311+00:00",
+      "duration_seconds": 0,
+      "idle_seconds": "120",
+      "focus_pred": "low",
+      "goal": "45",
+      "planned_minutes": 45,
+      "distraction_budget": 3,
+      "distraction_count": "2",
+      "goal_completed": false
+    },
+    {
+      "user_id": "patelsamira2407@gmail.com",
+      "session_id": "eabd9539-c13f-4453-b9db-41da3f3e0f5e",
+      "start_time": "2026-04-07T12:27:01.357216+00:00",
+      "end_time": null,
+      "duration_seconds": null,
+      "idle_seconds": null,
+      "focus_pred": null,
+      "goal": "2",
+      "planned_minutes": 25,
+      "distraction_budget": 3,
+      "distraction_count": 0,
+      "goal_completed": null
+    },
+    {
+      "user_id": "patelsamira2407@gmail.com",
+      "session_id": "8f8f71ff-481f-48ec-b944-79b678610469",
+      "start_time": "2026-04-07T12:27:59.699232+00:00",
+      "end_time": "2026-04-07T12:28:36.770928+00:00",
+      "duration_seconds": 36,
+      "idle_seconds": 23,
+      "focus_pred": "high",
+      "goal": "1",
+      "planned_minutes": 15,
+      "distraction_budget": 3,
+      "distraction_count": 2,
+      "goal_completed": true
+    },
+    {
+      "user_id": "patelsamira2407@gmail.com",
+      "session_id": "2a683d7d-c36d-4678-8751-57627872aa29",
+      "start_time": "2026-04-12T11:49:43.912848+00:00",
+      "end_time": "2026-04-12T11:50:19.715696+00:00",
+      "duration_seconds": 35,
+      "idle_seconds": 0,
+      "focus_pred": "high",
+      "goal": "2",
+      "planned_minutes": 15,
+      "distraction_budget": 3,
+      "distraction_count": 0,
+      "goal_completed": true
+    }
+  ],
+  "checkins": [],
+  "daily": {
+    "2026-02-26": {
+      "sessions": [
+        {
+          "duration_seconds": 342,
+          "idle_seconds": 50,
+          "distraction_count": 0,
+          "goal_completed": true
+        },
+        {
+          "duration_seconds": 600,
+          "idle_seconds": 120,
+          "distraction_count": 2,
+          "goal_completed": false
+        }
+      ]
+    },
+    "2026-02-27": {
+      "sessions": [
+        {
+          "duration_seconds": 73,
+          "idle_seconds": 10,
+          "distraction_count": 0,
+          "goal_completed": true
+        }
+      ]
+    }
+  }
+}
